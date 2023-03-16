@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 <h3>:sunflower::sunflower::sunflower:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:blush:&nbsp;Hi&nbsp;:blush:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:sunflower::sunflower::sunflower:</h3>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
