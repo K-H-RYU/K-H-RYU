@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <h3>:sunflower::sunflower::sunflower:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:blush:&nbsp;Hi&nbsp;:blush:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:sunflower::sunflower::sunflower:</h3>
 
-</div>
-
 <br>
 <br>
 <br>
@@ -32,3 +30,5 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/SQL-194100"/></a>&nbsp 
        <img src="https://img.shields.io/badge/R-064854"/></a>&nbsp 
 </ul>
+
+</div>
